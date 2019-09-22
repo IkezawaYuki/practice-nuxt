@@ -1,7 +1,17 @@
 <template>
-  <div>
-    <p>
-      /users/_id.vue
-    </p>
-  </div>
+  <section class="container">
+    <div>
+
+    </div>
+  </section>
 </template>
+
+<script>
+export default {
+  
+}
+</script>
+
+<style scoped>
+
+</style>
